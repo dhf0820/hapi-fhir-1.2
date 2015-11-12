@@ -180,9 +180,9 @@
 					<configuration>  
 					  <path>/${project.build.finalName}</path>  
 					  <update>true</update>  
-					  <url>http:// localhost:9090/manager/text</url>  
+					  <url>http://localhost:8080/manager/text</url>  
 					  <username>tomcat</username>  
-					  <password>tomcatuser</password>  
+					  <password>tomcat</password>  
 					</configuration>  
 				</plugin>  
 			</plugins>
